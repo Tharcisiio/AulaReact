@@ -10,11 +10,5 @@ return(
         Nota 2 : {nota2} <br />
         Media Aritmetica {media}
     </div>
-
-
-
-
-
-
 )
 }

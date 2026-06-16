@@ -11,6 +11,16 @@ import Exercicio4 from "./Exercicio4";
 
 import Exercicio5 from "./Exercicio5";
 
+import Exercicio6 from "./Exercicio6";
+
+import Exercicio7 from "./Exercicio7";
+
+import Exercicio8 from "./Exercicio8";
+
+import Exercicio9 from "./Exercicio9";
+
+
+
 export default function App() {
   return (
     <div>
@@ -60,11 +70,6 @@ export default function App() {
 
 
 
-
-
-
-
-
       <div className="card">
  
       <h3>Chamadas para o Componente Exercicio - 5</h3>
@@ -74,10 +79,35 @@ export default function App() {
       </div>
 
 
+<div className="card">
+<h3>Chamadas para o Componente Exercicio - 6</h3>
+<Exercicio6 capital={1000} tempo={6} taxa={5} />
+</div>
+
+<div className="card">
+<h3>Chamadas para o Componente Exercicio - 7</h3>
+<Exercicio7 celsius={30}/>
+<Exercicio7 celsius={20}/>
+<Exercicio7 celsius={39.5}/>
+
+</div>
 
 
 
-      
+
+
+
+
+
+
+
+      <div className="card">
+        <h3>Chamadas para o Componente Exercicio - 9</h3>
+      <Exercicio9 salario={2500}/>
+      <Exercicio9 salario={200}/>
+      <Exercicio9 salario={2700}/>
+
+      </div>
 
 
      

@@ -15,6 +15,18 @@ import Rondonia from "./paginas/Rondonia";
 import Acre from "./paginas/Acre";
 import Roraima from "./paginas/Roraima";
 import Para from "./paginas/Para";
+import Bahia from "./paginas/Bahia";
+import Pernambuco from "./paginas/Pernambuco";
+import Ceara from "./paginas/Ceara";
+import Maranhao from "./paginas/Maranhao";
+import Paraiba from "./paginas/Paraiba";
+import RioGrandedoNorte from "./paginas/RioGrandedoNorte";
+import Alagoas from "./paginas/Alagoas";
+import Sergipe from "./paginas/Sergipe";
+import Piaui from "./paginas/Piaui";
+
+
+
 
 
 export default function App()

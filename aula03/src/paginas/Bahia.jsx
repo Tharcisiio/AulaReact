@@ -10,7 +10,7 @@ return(
  <img src="/PI.png" />
 
  <p>
- Capital: Teresina. Única capital nordestina que não fica no litoral. O estado abriga o Parque Nacional da Serra da Capivara, um dos maiores sítios arqueológicos do mundo.
+ Bahia é o maior e mais populoso estado da região, funcionando como um verdadeiro coração cultural do país onde a herança africana moldou a culinária, a música e as festividades. Salvador, a primeira capital do Brasil, encanta pelo centro histórico do Pelourinho, enquanto o interior atrai ecoturistas para a Chapada Diamantina e o litoral preserva a histórica Costa do Descobrimento.
  </p>
 
  <Link to="/">Voltar</Link>

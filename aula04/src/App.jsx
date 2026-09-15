@@ -4,7 +4,7 @@ import Exemplo1 from "./paginas/Exemplo1";
 import Exemplo2 from "./paginas/Exemplo2";
 import Exercicio1 from "./paginas/Exercicio1";
 import Exercicio2 from "./paginas/Exercicio2";
-
+import Exercicio3 from "./paginas/Exercicio3";
 export default function App()
 {
     return (
@@ -14,11 +14,12 @@ export default function App()
 
                 <Route  path="/"  element={ <Home /> }  />
 
-                <Route  path="/exemplo1" element={ <Exemplo1 />} />
-                <Route  path="/exemplo2" element={ <Exemplo2 />} />
+                <Route  path="/Exemplo1" element={ <Exemplo1 />} />
+                <Route  path="/Exemplo2" element={ <Exemplo2 />} />
                 
-                <Route  path="/exercicio1" element={ <Exercicio1 />} />
-                <Route  path="/exercicio2" element={ <Exercicio2 />} />
+                <Route  path="/Exercicio1" element={ <Exercicio1 />} />
+                <Route  path="/Exercicio2" element={ <Exercicio2 />} />
+                <Route  path="/Exercicio3" element={ <Exercicio3 />} />
 
             </Routes>
 
